@@ -1,4 +1,5 @@
 # API REST – Sistema de alquiler de vehículos
+## By Nicolas Bastidas,  Michael Lagos,  Willian Inzandara
 
 API hecha con Java 17, Spring Boot, Maven y PostgreSQL. Controla los errores del negocio (vehículo ocupado, licencia vencida, devolución tardía, vehículo inexistente) con excepciones personalizadas.
 
